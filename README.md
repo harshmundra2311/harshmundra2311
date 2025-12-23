@@ -1,16 +1,60 @@
-## Hi there 👋
+<img src="Github_banner_hm.png" alt="Header" />
 
-<!--
-**harshmundra2311/harshmundra2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-Here are some ideas to get you started:
+My name is **Harsh Mundra**.  
+I enjoy innovating, solving complex problems, and creating software systems that make an impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on GitHub or LinkedIn.
+
+---
+
+## 🔧 Technologies & Tools
+
+### 🧑‍💻 Programming
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00a2ff)
+
+### 🛠 Tools & OS
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=00a2ff)
+
+### 📚 Libraries & Frameworks
+![](https://img.shields.io/badge/Lib-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/GUI-Tkinter-informational?style=flat&logo=python&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=00a2ff)
+
+### 🌐 Web & Databases
+![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=fastapi&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=00a2ff)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=00a2ff)
+
+---
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/harshmundra2311">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmundra2311&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=00a2ff&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/harshmundra2311">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshmundra2311&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=00a2ff&bg_color=1d1f21" />
+</a>
+
+---
+
+### 🔗 Links
+- GitHub: [https://github.com/harshmundra2311](https://github.com/harshmundra2311)
+- LinkedIn: [Your LinkedIn Profile Link Here]
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=harshmundra2311&label=Profile%20views&color=00a2ff&style=flat" alt="profile views" />
+</p>
