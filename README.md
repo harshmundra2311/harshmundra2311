@@ -42,18 +42,19 @@ You can find me on GitHub or LinkedIn.
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/harshmundra2311">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmundra2311&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=00a2ff&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/harshmundra2311">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshmundra2311&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=00a2ff&bg_color=1d1f21" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmundra2311&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=00a2ff&icon_color=00a2ff" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshmundra2311&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=00a2ff&icon_color=00a2ff" alt="GitHub Stats" />
+</p>
 
 ---
 
 ### 🔗 Links
 - GitHub: [https://github.com/harshmundra2311](https://github.com/harshmundra2311)
-- LinkedIn: (https://www.linkedin.com/in/harshmundra49/)
+- LinkedIn: https://www.linkedin.com/in/harshmundra49/
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harshmundra2311&label=Profile%20views&color=00a2ff&style=flat" alt="profile views" />
