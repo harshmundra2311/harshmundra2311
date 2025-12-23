@@ -39,11 +39,13 @@ You can find me on GitHub or LinkedIn.
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=00a2ff)
 
 ---
-## 🔥 GitHub Streak
+## 🔥 Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshmundra2311&theme=dark" />
-</p>
+- Actively building and improving projects
+- Regularly practicing problem-solving
+- Focused on clean code and backend systems
+
+![GitHub](https://img.shields.io/badge/GitHub-Active-00a2ff?style=flat&logo=github)
 
 ---
 
