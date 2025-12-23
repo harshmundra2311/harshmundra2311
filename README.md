@@ -53,7 +53,7 @@ You can find me on GitHub or LinkedIn.
 
 ### 🔗 Links
 - GitHub: [https://github.com/harshmundra2311](https://github.com/harshmundra2311)
-- LinkedIn: [Your LinkedIn Profile Link Here]
+- LinkedIn: (https://www.linkedin.com/in/harshmundra49/)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harshmundra2311&label=Profile%20views&color=00a2ff&style=flat" alt="profile views" />
