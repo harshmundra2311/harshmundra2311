@@ -39,16 +39,11 @@ You can find me on GitHub or LinkedIn.
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=00a2ff)
 
 ---
+## 🔥 GitHub Streak
 
-## 📈 GitHub Stats
-
-
-<a href="https://github.com/harshmundra2311">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmundra2311&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/harshmundra2311">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshmundra2311&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshmundra2311&theme=dark" />
+</p>
 
 ---
 
