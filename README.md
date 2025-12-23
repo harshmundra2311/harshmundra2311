@@ -42,16 +42,12 @@ You can find me on GitHub or LinkedIn.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=harshmundra2311&show_icons=true&theme=dark" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmundra2311&layout=compact&theme=dark" 
-    height="165"
-  />
-</p>
+<a href="https://github.com/harshmundra2311"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshagarwal&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/harshmundra2311">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrshagarwal&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>>
 
 
 ---
