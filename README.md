@@ -48,6 +48,8 @@ You can find me on GitHub or LinkedIn.
 ![GitHub](https://img.shields.io/badge/GitHub-Active-00a2ff?style=flat&logo=github)
 
 ---
+[![harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshmundra2311)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ### 🔗 Links
 - GitHub: [https://github.com/harshmundra2311](https://github.com/harshmundra2311)
